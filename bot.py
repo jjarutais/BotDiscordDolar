@@ -3,8 +3,8 @@ from discord.ext import commands, tasks
 import requests
 
 # Configurações
-TOKEN = "MTIzMTAwODI2OTkwOTA5ODUzOA.Gef0SH.cZIj726633Qtbycu3crxVsvBvQZP4DV7LUNiO0"
-CHANNEL_ID = "1243359177980645416"
+TOKEN = ""
+CHANNEL_ID = ""
 PREFIX = "!"
 
 # Inicializa as intenções padrão
